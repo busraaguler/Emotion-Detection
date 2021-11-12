@@ -12,4 +12,7 @@ Emotion detection with machine learning,dlib,python
 
 
 Uygulama 
+
+Geliştirilen projede, çıkarılan özelliklerle birlikte SVM sınıflandırıcısı kullanılarak elde edilen çeşitli veri setlerindeki duygu tanıma başarısı ölçülmektedir. Pycharm IDE’si üzerinden Python programlama dili ile yazılan projenin android ortamda çalışabilmesi için projeye Kivy kütüphanesi import edilmiştir. Kivy, kullanıcı ara yüzü ile mobil uygulamalar geliştirmek için açık kaynaklı ve ücretsiz bir Python kütüphanesidir.
+
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/45233307/141510015-cafa5adc-d5a0-443f-a451-33148cbbe557.PNG)
