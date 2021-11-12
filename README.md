@@ -1,7 +1,9 @@
 # Emotion-Detection
 Emotion detection with machine learning,dlib,python
 
+![giriş](https://user-images.githubusercontent.com/45233307/141510496-f88454aa-7b66-481d-8b94-86b09e4c915a.PNG)
 
+Özelliklerin çıkarılması
 ![özellik çıkarılması foto1](https://user-images.githubusercontent.com/45233307/141509782-42ecc2c2-470a-4c80-af2c-4c4d4eeb91d8.PNG)
 ![2](https://user-images.githubusercontent.com/45233307/141509968-03ca1442-b7e4-4fa1-8425-228958682324.PNG)
 
